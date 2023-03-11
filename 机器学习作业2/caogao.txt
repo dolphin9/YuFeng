@@ -1,0 +1,7 @@
+TORCH.TENSOR.VIEW
+    Tensor.view(*shape) → Tensor
+Returns a new tensor with the same data as the self tensor but of a different shape.
+
+TORCH.MM
+    torch.mm(input, mat2, *, out=None) → Tensor
+Performs a matrix multiplication of the matrices input and mat2.
